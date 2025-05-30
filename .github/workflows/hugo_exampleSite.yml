@@ -46,14 +46,13 @@ jobs:
           hugo-version: ${{ env.HUGO_VERSION }} # Use the env var
           extended: true
 
-      - name: Install Dart Sass CLI
+      - name: Install Dart Sass CLI (fixed version)
         run: |
-          curl -L https://github.com/sass/dart-sass/releases/latest/download/dart-sass-linux-x64.tar.gz -o dart-sass.tar.gz
+          curl -L https://github.com/sass/dart-sass/releases/download/1.73.1/dart-sass-linux-x64.tar.gz -o dart-sass.tar.gz
           tar -xzf dart-sass.tar.gz
           sudo mv dart-sass/sass /usr/local/bin/sass
           sudo chmod 755 /usr/local/bin/sass
           sass --version
-
 
       - name: Check for Sass executable
         run: |
