@@ -41,6 +41,13 @@ jobs:
           extended: true
       - name: Setup Dart Sass
         uses: dart-lang/setup-dart@v1
+      - name: Check for Sass executable
+        run: |
+          which sass || echo "sass command not found with 'which'"
+          ls -l /opt/hostedtoolcache/dart # Check default location for dart-lang/setup-dart
+          ls -l /opt/hostedtoolcache/sass # Check for LCluber/dart-sass-action if used
+          # Attempt to run sass --version; if it fails, it's not in PATH or not installed correctly
+          sass --version || echo "sass --version failed"
       - name: Checkout
         uses: actions/checkout@v4.2.2
         with:
