@@ -4,7 +4,7 @@
 # Ensure this script has execute permissions: chmod +x run_hugo_docker.sh
 
 # Define the Docker image (latest for automatic updates)
-HUGO_IMAGE="klakegg/hugo:latest"
+HUGO_IMAGE="hugomods/hugo:latest"
 
 # Check if Docker is installed
 if ! command -v docker &> /dev/null; then
