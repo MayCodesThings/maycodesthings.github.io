@@ -21,14 +21,6 @@ Hugo ships with several [Embedded Shortcodes](https://gohugo.io/content-manageme
 
 ---
 
-## X Simple Shortcode
-
-{{< x id="1085870671291310081" user="DesignReviewed" >}}
-
-<br>
-
----
-
 ## Vimeo Simple Shortcode
 
 {{< vimeo_simple 48912912 >}}
