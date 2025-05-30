@@ -57,15 +57,15 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --themesDir ../.. \
-            --source exampleSite \
+            --themesDir ./themes \
+            --source . \
             --baseURL "${{ steps.pages.outputs.base_url }}/" 
       - name: Index pagefind
         run: npx pagefind --site "./exampleSite/public"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3.0.1
         with:
-          path: ./exampleSite/public
+          path: ./public
 
   # Deployment job
   deploy:
