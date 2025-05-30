@@ -32,30 +32,41 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.147.5
+      HUGO_VERSION: 0.127.0 # Changed to a known stable version, 0.147.5 seems like a future date
     steps:
-      - name: Setup Hugo Extended
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.147.5'
-          extended: true
-      - name: Setup Dart Sass
-        uses: dart-lang/setup-dart@v1
-      - name: Check for Sass executable # <--- Your debugging step
-        run: |
-          echo "Current PATH is: $PATH"
-          which sass || echo "sass command not found with 'which' during debug"
-          sass --version || echo "sass --version failed during debug"
       - name: Checkout
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4 # Use a more common recent version like v4
         with:
           submodules: recursive
-          fetch-depth: 0
+          fetch-depth: 0 # Needed for Hugo's .Lastmod
+
+      - name: Setup Hugo Extended
+        uses: peaceiris/actions-hugo@v2 # Or v3 if you prefer
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }} # Use the env var
+          extended: true
+
+      - name: Setup Dart Sass
+        uses: dart-lang/setup-dart@v1.6.4 # Using the latest specific version
+
+      - name: Check for Sass executable
+        run: |
+          echo "Current PATH is: $PATH"
+          echo "Checking for sass..."
+          which sass || echo "sass command not found with 'which' during debug"
+          echo "Attempting sass --version..."
+          sass --version || echo "sass --version failed during debug"
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      - name: Install Node.js dependencies (if a lockfile exists)
+        # Only runs if a package-lock.json or npm-shrinkwrap.json is found at the root
+        # Adjust path if your package.json is elsewhere e.g., in ./exampleSite/
+        if: hashFiles('package-lock.json', 'npm-shrinkwrap.json') != ''
+        run: npm ci
+
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
@@ -67,11 +78,16 @@ jobs:
             --minify \
             --themesDir ./themes \
             --source . \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" 
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # Note: Your pagefind step might need adjustment if your public output is not at ./exampleSite/public
+      # Hugo typically outputs to ./public by default from the root.
+      # If your --source . is used, then public will be at ./public
       - name: Index pagefind
-        run: npx pagefind --site "./exampleSite/public"
+        run: npx pagefind --site "./public" # Adjusted path assuming default Hugo output
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -85,4 +101,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4.0.5
+        uses: actions/deploy-pages@v4
