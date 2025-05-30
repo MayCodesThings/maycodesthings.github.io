@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.147.6 # Changed to a known stable version, 0.147.5 seems like a future date
+      HUGO_VERSION: 0.127.0 # Changed to a known stable version, 0.147.5 seems like a future date
     steps:
       - name: Checkout
         uses: actions/checkout@v4 # Use a more common recent version like v4
