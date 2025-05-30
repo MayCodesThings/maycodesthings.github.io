@@ -39,8 +39,13 @@ jobs:
         with:
           hugo-version: '0.147.5'
           extended: true
-      - name: Setup Dart Sass
-        uses: swyx/setup-sass@v1
+      - name: Install Dart Sass manually
+        run: |
+          curl -L https://github.com/sass/dart-sass/releases/latest/download/dart-sass-linux-x64.tar.gz -o dart-sass.tar.gz
+          tar -xzf dart-sass.tar.gz
+          sudo mv dart-sass/sass /usr/local/bin/sass
+          sudo chmod 755 /usr/local/bin/sass
+          sass --version
       - name: Checkout
         uses: actions/checkout@v4.2.2
         with:
