@@ -11,6 +11,8 @@ type: post
 Ever wondered what kind of insights you can pull from a coffee shop’s sales data? ☕  
 In this post, I’ll walk through some SQL exercises I did using a sample dataset — exploring customer behavior, revenue trends, and product performance using pure SQL.
 
+<!--more-->
+
 ---
 ```python
 
