@@ -4,6 +4,8 @@ date: 2025-06-01
 author: "May Hnin Phyu"
 tags: ["SQL", "Data Analysis", "Portfolio"]
 description: "Exploring customer behavior, revenue trends, and product performance with SQL"
+type: post
+
 ---
 
 Ever wondered what kind of insights you can pull from a coffee shop’s sales data? ☕  
