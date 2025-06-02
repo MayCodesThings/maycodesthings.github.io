@@ -5,8 +5,10 @@ author: "May Hnin Phyu"
 tags: ["SQL", "Data Analysis", "Portfolio"]
 description: "Exploring customer behavior, revenue trends, and product performance with SQL"
 type: post
-
+cover:
+  image: "/images/sql-cover.jpg"
 ---
+
 
 Ever wondered what kind of insights you can pull from a coffee shop’s sales data? ☕  
 In this post, I’ll walk through some SQL exercises I did using a sample dataset — exploring customer behavior, revenue trends, and product performance using pure SQL.
