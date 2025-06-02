@@ -5,8 +5,7 @@ author: "May Hnin Phyu"
 tags: ["SQL", "Data Analysis", "Portfolio"]
 description: "Exploring customer behavior, revenue trends, and product performance with SQL"
 type: post
-cover:
-  image: "/images/sql-cover.jpg"
+
 ---
 
 
