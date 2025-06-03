@@ -37,6 +37,12 @@ url = "https://github.com/maycodesthings"
 target = "_blank"
 aria = "GitHub Profile"
 
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:May.mayhninphyu95@gmail.com"
+aria = "My e-Mail Address"
+
 
 [[params.social]]
 key = 2
@@ -44,8 +50,4 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/may-hninphyu/"
 aria = "LinkedIn Profile"
 
-[[params.social]]
-key = 3
-name = "email"
-url = "mailto:May.mayhninphyu95@gmail.com"
-aria = "My e-Mail Address"
+
