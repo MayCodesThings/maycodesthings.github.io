@@ -3,8 +3,9 @@ title: "Project 1: Fund Name Cleaning & Matching"
 date: 2025-06-03
 slug: "project-1-fund-name-cleaning"
 tags: ["Data Cleaning", "Python", "Pandas", "Regex"]
-Description: "A hands-on project focused on cleaning and matching inconsistent fund names using Python and domain-specific rules."
+description: "A hands-on project focused on cleaning and matching inconsistent fund names using Python and domain-specific rules."
 ---
+
 
 ### 📌 Project Overview
 
