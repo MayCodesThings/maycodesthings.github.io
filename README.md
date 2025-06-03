@@ -1,3 +1,0 @@
-# maycodesthings.github.io
-
-hello
