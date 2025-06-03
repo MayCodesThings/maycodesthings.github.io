@@ -47,5 +47,5 @@ aria = "LinkedIn Profile"
 [[params.social]]
 key = 3
 name = "email"
-url = "May.mayhninphyu95@gmail.com"
+url = "mailto:May.mayhninphyu95@gmail.com"
 aria = "My e-Mail Address"
