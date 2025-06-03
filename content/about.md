@@ -1,25 +1,26 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+---
+title: "About Me"
+date: 2025-06-03
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi! I'm May 👋 I dig data, love coding, and live in Bangkok 🇹🇭
 
-Hugo makes use of a variety of open source projects including:
+I’m learning SQL, Python, Power BI, Looker Studio, and building real-world projects to sharpen my skills in data wrangling, visualization, and storytelling. I’m also getting hands-on with tools like Jupyter Notebooks, Pandas, and Git to build a strong foundation in analytics.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Previously, I worked in recruitment, hiring tech and finance professionals across the APAC and MENA regions. Being around so many brilliant minds in tech sparked my interest in data and it’s been a rewarding journey ever since.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I love:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- 🧠 Writing code & automating things  
+- 📊 Making clean, insightful dashboards  
+- 📦 Working with real-world messy datasets  
+- 💥 Breaking things until I understand them  
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+When I’m not learning/ coding, I’m probably:
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+- Training Muay Thai 🥊  
+- Doing Hyrox, hiking or exploring a trail ⛰️  
+- Cooking healthy meals 🍳  
+- Or travelling 🌍  
+
+Let’s connect!
