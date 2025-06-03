@@ -18,8 +18,8 @@ theme = "nightfall"
     url = "about"
 
 [params]
-user = "Hello"
-hostname = "gohugo.io"
+user = "May"
+hostname = "maycodes.dev"
   [params.author]
     name = "May Hnin Phyu"   # Website and RSS feed author
     email = "May.mayhninphyu95@gmail.com"  # RSS feed email address
@@ -33,7 +33,7 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "github"
-url = "https://github.com/gohugoio"
+url = "https://github.com/maycodesthings"
 target = "_blank"
 aria = "GitHub Profile"
 
