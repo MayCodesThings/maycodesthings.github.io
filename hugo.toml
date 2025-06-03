@@ -18,11 +18,11 @@ theme = "nightfall"
     url = "about"
 
 [params]
-user = "hello"
+user = "May Hnin Phyu"
 hostname = "gohugo.io"
   [params.author]
-    name = "Hugo Nightfall"  # Website and RSS feed author
-    email = "email@example.com"  # RSS feed email address
+    name = "May Hnin Phyu"   # Website and RSS feed author
+    email = "May.mayhninphyu95@gmail.com"  # RSS feed email address
     mainSections = ["post"]
 
 
@@ -37,20 +37,15 @@ url = "https://github.com/gohugoio"
 target = "_blank"
 aria = "GitHub Profile"
 
-[[params.social]]
-key = 1
-name = "twitter"
-url = "https://www.example.com"
-aria = "Twitter Profile"
 
 [[params.social]]
 key = 2
 name = "linkedin"
-url = "https://www.example.com"
+url = "https://www.linkedin.com/in/may-hninphyu/"
 aria = "LinkedIn Profile"
 
 [[params.social]]
 key = 3
 name = "email"
-url = "mailto:email@example.com"
+url = "May.mayhninphyu95@gmail.com"
 aria = "My e-Mail Address"
