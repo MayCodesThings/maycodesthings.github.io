@@ -18,7 +18,7 @@ theme = "nightfall"
     url = "about"
 
 [params]
-user = "May Hnin Phyu"
+user = "Hello"
 hostname = "gohugo.io"
   [params.author]
     name = "May Hnin Phyu"   # Website and RSS feed author
