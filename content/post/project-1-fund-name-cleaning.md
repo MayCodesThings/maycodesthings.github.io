@@ -43,15 +43,6 @@ This was one of my first real-world data cleaning projects, and it provided valu
 
 ---
 
-### 🎯 Key Takeaways
-
-- Learned to design domain-specific data cleaning pipelines
-- Applied advanced string manipulation techniques
-- Understood the importance of flexible matching logic in real-world scenarios
-- Gained experience working with financial and private equity data
-
----
-
 ### 📁 View the Code on Github (https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/projects/project-1/project1_fund_cleaning.ipynb)
 
 ---
