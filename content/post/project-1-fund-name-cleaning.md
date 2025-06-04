@@ -52,7 +52,7 @@ This was one of my first real-world data cleaning projects, and it provided valu
 
 ---
 
-### 🔗 GitHub Repository
+### 📁 View the Code on Github (https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/projects/project-1/project1_fund_cleaning.ipynb)
 
 ---
 
