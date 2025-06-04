@@ -1,5 +1,5 @@
 ---
-title: "SQL Insights from Coffee Sales Data"
+title: " ☕️ Coffee Sales Data with SQL"
 date: 2025-06-01
 author: "May Hnin Phyu"
 tags: ["SQL", "Data Analysis", "Portfolio"]
