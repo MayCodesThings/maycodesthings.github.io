@@ -25,7 +25,8 @@ This is a real-world data cleaning task involving string normalization, grouping
 - Regex
 - CSV handling
 
-
+📁 View the Code on Github
+(https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/projects/project-2/project-2-fund-strategy-corrections-clean.ipynb)
 - `grouped_fund_series.csv` – groups of related funds
 - `corrected_strategy.csv` – fund list with consistent strategy column (`corrected_strategy`)
 
