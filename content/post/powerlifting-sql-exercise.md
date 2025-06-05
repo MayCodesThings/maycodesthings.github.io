@@ -1,5 +1,5 @@
 ---
-title: "Analyzing Powerlifting Performance with SQL"
+title: " 🏋️‍♀️ Analyzing Powerlifting Performance with SQL"
 date: 2025-06-05
 tags: ["SQL", "Powerlifting", "Data Analysis", "Portfolio Project"]
 description: "A study session where I used SQL to explore performance trends in a powerlifting dataset, practicing aggregation, ranking, and window functions."
