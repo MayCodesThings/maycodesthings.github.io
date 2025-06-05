@@ -56,8 +56,7 @@ This was a fun and insightful SQL exercise! I got to:
 
 ---
 
-If you're curious about the code or want to try this out yourself, you can check out my GitHub repo here:  
+All queries and insights are documented in a shareable notebook. Feel free to view or copy it from the link below: 📚👇
 
-## 📓 Interactive Notebook
 👉 [View on GitHub](https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/powerlifting_sql_analysis_updated.ipynb)
 🚀 [Open in Google Colab](https://colab.research.google.com/github/MayCodesThings/maycodesthings.github.io/blob/main/powerlifting_sql_analysis_updated.ipynb)
