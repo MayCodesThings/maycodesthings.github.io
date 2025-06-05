@@ -13,34 +13,34 @@ In this study exercise, I used SQL to analyze a powerlifting dataset with the go
 
 Here’s a summary of the insights I generated through SQL:
 
-###  1. Average Performance by Lift Type  
+###  1.Average Performance by Lift Type  
 I calculated the average weight lifted for each lift type to see which ones tend to be heavier overall.
 
-###  2. Personal Bests  
+### 2.Personal Bests  
 For each lifter, I pulled out their heaviest single lift to understand their personal top performance.
 
-### 3. Most Consistent High Performer  
+### 3.Most Consistent High Performer  
 I identified the lifter with the highest **total weight lifted** across all entries — a good proxy for consistent strength over time.
 
-### 4. Lifts by Weight Class  
+### 4.Lifts by Weight Class  
 To explore participation, I counted how many lifts were performed in each weight class.
 
-### 5. Versatile Lifters  
+### 5.Versatile Lifters  
 I highlighted lifters who competed in **more than one type of lift** — showing versatility.
 
-###  6. Performance Over Time  
+### 6.Performance Over Time  
 I tracked performance improvement over age for each lifter and lift type to spot those who got stronger with time.
 
-### 7. Top Lifters by Lift Type  
+### 7.Top Lifters by Lift Type  
 Using rankings, I found the **top lifter (name + weight class)** for each lift type — based on the heaviest lift.
 
-###  8. Average Lift by Age Group  
+### 8.Average Lift by Age Group  
 I grouped lifters into age bands (e.g., 20–29, 30–39) and calculated their average lifts — to look at age vs. strength.
 
-###  9. Weight Class Normalization  
+### 9.Weight Class Normalization  
 I cleaned the Weight Class values for analysis and began exploring the correlation between weight class and lift capacity.
 
-###  10. Global Lift Rankings  
+### 10. Global Lift Rankings  
 Finally, I ranked every lift from heaviest to lightest — creating a full leaderboard across all lifters and lift types.
 
 ---
@@ -57,3 +57,7 @@ This was a fun and insightful SQL exercise! I got to:
 ---
 
 If you're curious about the code or want to try this out yourself, you can check out my GitHub repo here:  
+
+## 📓 Interactive Notebook
+👉 [View on GitHub](https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/powerlifting_sql_analysis_updated.ipynb)
+🚀 [Open in Google Colab](https://colab.research.google.com/github/MayCodesThings/maycodesthings.github.io/blob/main/powerlifting_sql_analysis_updated.ipynb)
