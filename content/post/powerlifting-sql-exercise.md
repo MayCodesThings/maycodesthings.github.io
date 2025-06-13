@@ -23,7 +23,7 @@ FROM
 GROUP BY 
     `Lift Type`;
 ```
-### 2.2. Heaviest Lift Per Lifter
+### 2. Heaviest Lift Per Lifter
 ```sql
 SELECT 
     `Lifter Name`, 
