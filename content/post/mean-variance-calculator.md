@@ -34,6 +34,7 @@ This was the first project in the freeCodeCamp data analysis certification. The 
 📌 **Example Input**
 ```python
 calculate([0, 1, 2, 3, 4, 5, 6, 7, 8])
+```
 
 📎 **View Full Code:**
 [🗂 View on GitHub] ( https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/projects/mean_variance_calculator.py )  
