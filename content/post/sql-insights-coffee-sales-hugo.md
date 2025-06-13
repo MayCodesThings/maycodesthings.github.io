@@ -36,3 +36,7 @@ date, datetime, coffeename, money and card (customer ID)
 - Structuring SQL analysis using clean, readable logic with CTEs  
 - Gaining insights from raw transactional data using only SQL — no need for Python or BI tools!
 
+📎 **Full SQL Code:**  
+You can view all the SQL queries used in this project on GitHub:  
+[🗂 View coffee_sales_eda.sql] (https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/projects/coffee_sales_eda.sql)
+
