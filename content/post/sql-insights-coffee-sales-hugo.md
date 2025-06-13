@@ -2,7 +2,7 @@
 
 This project explores transactional data from a coffee shop using only SQL, focusing on customer behavior, product popularity, and revenue trends.  
 The dataset includes fields such as:  
-`date`, `datetime`, `coffee_name`, `money`, `card` 
+date, datetime, coffeename, money and card (customer ID)
 
 ---
 
