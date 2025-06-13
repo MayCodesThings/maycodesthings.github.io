@@ -1,5 +1,5 @@
 ---
-title: " 🔎 Project 2: Funds Series Strategy Corrections"
+title: " 🔎 Project : Funds Series Strategy Corrections"
 date: 2025-06-04
 tags: ["Data Cleaning", "Python", "Finance", "Strategy Alignment"]
 ---
