@@ -82,9 +82,4 @@ def calculate(input_list):
 
     return calculations
 
-# Example usage
-if __name__ == "__main__":
-    result = calculate([0, 1, 2, 3, 4, 5, 6, 7, 8])
-    for key, value in result.items():
-        print(f"{key}: {value}")
 
