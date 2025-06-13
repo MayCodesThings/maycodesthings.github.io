@@ -1,12 +1,12 @@
 ---
-title: "Project 3: Coffee Sales Data EDA with SQL"
+title: "☕ Coffee Sales Data EDA with SQL"
 date: 2025-06-01
-slug: project-3-coffee-sales-sql
+slug: project-coffee-sales-sql
 tags: ["SQL", "EDA", "Window Functions", "CTEs"]
 description: "Exploratory Data Analysis using SQL to uncover revenue trends and customer behavior from coffee shop sales data."
 ---
 
-### ☕ Project Summary: Coffee Sales Data EDA with SQL
+###  Project Summary: Coffee Sales Data EDA with SQL
 
 This project explores transactional data from a coffee shop using only SQL, focusing on customer behavior, product popularity, and revenue trends.  
 The dataset includes fields such as:  
