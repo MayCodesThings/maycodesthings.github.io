@@ -6,7 +6,7 @@ tags: ["Python", "NumPy", "Study Project"]
 description: "A study project using NumPy to calculate basic statistics across a 3x3 matrix."
 ---
 
-📚 **Study Project – freeCodeCamp Data Analysis with Python Certification**
+📚 **Study Project – freeCodeCamp Data Analysis with Python **
 
 This was the first project in the freeCodeCamp data analysis certification. The goal was to write a Python function that calculates key statistics — **mean, variance, standard deviation, min, max, and sum** — across **rows, columns, and the flattened version** of a 3×3 matrix.
 
