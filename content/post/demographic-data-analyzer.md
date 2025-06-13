@@ -32,4 +32,4 @@ In this project, I explored U.S. demographic data using Pandas. The dataset incl
 ---
 
 📎 **View Full Code:**  
-[🗂 View on GitHub]
+[🗂 View on GitHub] (https://github.com/MayCodesThings/maycodesthings.github.io/blob/main/demographic_data_analyzer.py)
