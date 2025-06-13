@@ -1,5 +1,5 @@
 ---
-title: "📊 Demographic Data Analyzer"
+title: "Demographic Data Analyzer"
 date: 2025-06-14
 slug: demographic-data-analyzer
 tags: ["Python", "Pandas", "Data Cleaning", "Study Project"]
