@@ -1,4 +1,5 @@
-## ☕ Project Summary: Coffee Sales Data EDA with SQL
+### ☕ Project Summary: Coffee Sales Data EDA with SQL
+*June 1, 2025*
 
 This project explores transactional data from a coffee shop using only SQL, focusing on customer behavior, product popularity, and revenue trends.  
 The dataset includes fields such as:  
