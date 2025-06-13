@@ -1,5 +1,5 @@
 ---
-title: "Mean-Variance-Standard Deviation Calculator"
+title: "📐 Mean-Variance-Standard Deviation Calculator"
 date: 2025-06-13
 slug: mean-variance-calculator
 tags: ["Python", "NumPy", "Study Project"]
