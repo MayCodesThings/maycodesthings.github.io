@@ -1,6 +1,6 @@
-# 🏡 Tableau Airbnb Market Analysis Dashboard Project 
+🏡 **Tableau Airbnb Market Analysis Dashboard Project**
 
-This project uses the **Kaggle Airbnb Listings** dataset to explore pricing, availability, and neighborhood trends through a custom dashboard built in **Tableau**.
+**Project Summary**: This project explores Airbnb listing data from **Kaggle** to identify pricing trends, availability patterns, and neighborhood comparisons using **Tableau**.
 
 > 📚 [Dataset on Kaggle](https://www.kaggle.com/datasets)
 
@@ -24,7 +24,9 @@ This project uses the **Kaggle Airbnb Listings** dataset to explore pricing, ava
 
 ## 📊 Dashboard Snapshot
 
-![Airbnb Market Dashboard](https://maycodesthings.github.io/static/airbnb_dashboard.png)
+Here’s the final Tableau dashboard I created:
+
+![Airbnb Market Dashboard](/images/airbnb_dashboard.png)
 
 
 ### Highlights:
