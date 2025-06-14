@@ -24,7 +24,8 @@ This project uses the **Kaggle Airbnb Listings** dataset to explore pricing, ava
 
 ## 📊 Dashboard Snapshot
 
-![Airbnb Market Dashboard](/images/airbnb_dashboard.png)
+![Airbnb Market Dashboard](https://maycodesthings.github.io/static/airbnb_dashboard.png)
+
 
 ### Highlights:
 - **Bedroom Pricing**: More rooms = higher average price  
