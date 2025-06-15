@@ -6,11 +6,13 @@ date: 2025-06-03
 
 Hi! I'm May 👋 I dig data, love coding, and live in Bangkok 🇹🇭
 
-I’m learning SQL, Python, Power BI, Google BigQuery, and building real-world projects to sharpen my skills in data wrangling, visualization, and storytelling. I’m also getting hands-on with tools like Jupyter Notebooks, Pandas, and Git to build a strong foundation in analytics.
+I’m building projects with **SQL**, **Python**, **Power BI**, and **Tableau** to clean, analyze, and visualize data that drives decisions.  
+My work focuses on data wrangling, dashboard building, and storytelling using tools like **Jupyter**, **Pandas**, and **Tableau**.  
+I love turning messy datasets into clear, valuable insights.
 
-Previously, I worked in recruitment, hiring tech and finance professionals across the APAC and MENA regions. Being around so many brilliant minds in tech sparked my interest in data and it’s been a rewarding journey ever since.
+Before transitioning into data, I worked in recruitment, hiring tech and finance professionals across the APAC and MENA regions. Being around so many brilliant minds in tech sparked my interest in data and it’s been a rewarding journey ever since.
 
-I love:
+❤️ What I love:
 
 - 🧠 Writing code & automating things  
 - 📊 Making clean, insightful dashboards  
@@ -24,4 +26,5 @@ When I’m not learning/ coding, I’m probably:
 - Cooking healthy meals 🍳  
 - Or travelling 🌍  
 
-Let’s connect!
+Thanks for stopping by — always happy to connect 😊
+
