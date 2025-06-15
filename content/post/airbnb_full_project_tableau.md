@@ -1,5 +1,5 @@
 ---
-title: "🏡 **Tableau Airbnb Market Analysis Dashboard Project**"
+title: "🏡 Tableau Airbnb Market Analysis Dashboard Project"
 tags: ["Tableau", "Data Visualization", "Airbnb Analysis"]
 date: 2025-06-15
 readingTime: 2 minutes
