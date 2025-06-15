@@ -1,11 +1,9 @@
 ---
-title: "Airbnb Market Analysis Dashboard Project"
+title: "🏡 **Tableau Airbnb Market Analysis Dashboard Project**"
 tags: ["Tableau", "Data Visualization", "Airbnb Analysis"]
-published: June 14, 2025
+date: 2025-06-15
 readingTime: 2 minutes
 ---
-
-🏡 **Tableau Airbnb Market Analysis Dashboard Project**
 
 **Project Summary**: This project explores Airbnb listing data from **Kaggle** to identify pricing trends, availability patterns, and neighborhood comparisons using **Tableau**.
 
