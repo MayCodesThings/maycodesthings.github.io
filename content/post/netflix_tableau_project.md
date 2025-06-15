@@ -1,7 +1,7 @@
 ---
 title: "🟥 Netflix Data Visualization Dashboard Project"
 tags: ["Tableau", "Netflix Analysis", "Data Visualization"]
-published: June 15, 2025
+date: 2025-06-15
 readingTime: 2 minutes
 ---
 
