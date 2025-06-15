@@ -6,7 +6,7 @@ tags: ["Python", "Pandas", "Data Cleaning", "Study Project"]
 description: "A study project using Pandas to analyze demographic trends from census-style data."
 ---
 
-📚 **Study Project – freeCodeCamp Data Analysis with Python **
+📚 Study Project – freeCodeCamp Data Analysis with Python 
 
 In this project, I explored U.S. demographic data using Pandas. The dataset included fields such as age, race, sex, education level, working hours, and salary. I performed various filtering and grouping operations to uncover trends related to income, education, and occupation.
 
