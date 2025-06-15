@@ -2,7 +2,6 @@
 title: "About Me"
 date: 2025-06-03
 ---
-![May Banner](/images/may_banner.png)
 
 Hi! I'm May 👋 I dig data, love coding, and live in Bangkok 🇹🇭
 
