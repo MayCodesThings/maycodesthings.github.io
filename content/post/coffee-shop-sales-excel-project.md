@@ -38,6 +38,6 @@ Just **Excel**—pivot tables, charts, slicers, and some basic cleaning. Nothing
 It’s clean, easy to read, and actually pretty useful. If you’re running a small shop, dashboards like this can help you spot trends, track what’s working, and see which products people keep coming back for.
 
 ---
-
+📥 **Download Excel File**: [Coffee Shop Sales Dashboard (.xlsx)](/files/coffee-shop-sales-dashboard.xlsx)
 
 Thanks for reading ! ☕✨  
