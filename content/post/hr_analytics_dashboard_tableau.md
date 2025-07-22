@@ -1,5 +1,5 @@
 ---
-title: "# 📊 HR Analytics Tableau Dashboard Project"
+title: "📊 HR Analytics Tableau Dashboard Project"
 tags: ["Tableau", "Data Visualization", "HR Analytics"]
 date: 2025-07-22
 ---
@@ -33,7 +33,7 @@ It helps make sense of employee data like who's leaving, why they might be leavi
 
 ### 🔍 Dashboard Preview
 
-![HR Analytics Dashboard](./images/hr-analytics-dashboard.png)
+![HR Analytics Dashboard](/images/hr-analytics-dashboard.png)
 
 
 ## 🧰 Tools I Used
@@ -43,7 +43,6 @@ It helps make sense of employee data like who's leaving, why they might be leavi
 
 ---
 
-### 👉 [**View the Live Dashboard on Tableau Public**]([https://public.tableau.com/app/profile/your-username/viz/HR_Analytics_Dashboard/Overview](https://public.tableau.com/app/profile/may.phyu/viz/HRAnalyticsDashboardbyMay/HRAnalyticsDashboard))
-
+### 👉 [**View the Live Dashboard on Tableau Public**](https://public.tableau.com/app/profile/may.phyu/viz/HRAnalyticsDashboardbyMay/HRAnalyticsDashboard)
 
 Thanks for reading! 💙  
