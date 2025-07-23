@@ -8,7 +8,7 @@ This Tableau dashboard gives a clear snapshot of Year-To-Date sales performance,
 
 ---
 ### 🔍 Dashboard Preview
-![Ecommerce Sales Dashboard](/images/ecommerce-sales-dashboard.png)
+![Ecommerce Sales Dashboard](/images/ecommerce-sale-dashboard.png)
 
 ### Quick Highlights !
 
@@ -53,7 +53,7 @@ This dashboard makes it easy to spot:
 
 ---
 
-👉 [**View on Tableau Public**](https://public.tableau.com/app/profile/may.phyu/viz/ECommerceSalesDashboardbyMay/Dashboard1)
+👉 [**View live dashboard on Tableau Public**](https://public.tableau.com/app/profile/may.phyu/viz/ECommerceSalesDashboardbyMay/Dashboard1)
 
 
 Thanks for checking it out! 😊  
