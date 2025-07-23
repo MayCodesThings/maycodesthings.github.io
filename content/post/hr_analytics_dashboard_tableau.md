@@ -3,6 +3,10 @@ title: "📊 HR Analytics Tableau Dashboard Project"
 tags: ["Tableau", "Data Visualization", "HR Analytics"]
 date: 2025-07-22
 ---
+### 🔍 Dashboard Preview
+
+![HR Analytics Dashboard](/images/hr-analytics-dashboard.png)
+
 
 ## What’s This Project About?
 
@@ -30,11 +34,6 @@ It helps make sense of employee data like who's leaving, why they might be leavi
 - Roles like **Sales Executive** and **Research Scientist** have mixed satisfaction levels — some love it, some… not so much  
 
 ---
-
-### 🔍 Dashboard Preview
-
-![HR Analytics Dashboard](/images/hr-analytics-dashboard.png)
-
 
 ## 🧰 Tools I Used
 
