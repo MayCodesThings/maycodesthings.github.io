@@ -15,14 +15,13 @@ This Tableau dashboard gives a clear snapshot of Year-To-Date sales performance,
 - **Sales**: $14.11M (down 5.04%)  
 - **Profit**: $1.30M (slightly down 0.46%)  
 - **Orders**: 157,978 (fell by 15.02%)  
-
+---
 ### Who’s Buying?
 
 - **LATAM** leads the way with 45.86%  
 - **Europe** follows close behind at 43.37%  
 - Smaller shares from **Pacific Asia** & **Africa**  
-
-
+---
 ### What’s Selling (and What’s Not)
 
 **Winners**:  
@@ -33,12 +32,10 @@ This Tableau dashboard gives a clear snapshot of Year-To-Date sales performance,
 - 👟 Men’s Footwear  
 - 🎣 Fishing  
 - 🧥 Apparel (all down 20%+)
-
-
+---
 ### Monthly Trends by Region
 
 The line chart shows customer acquisition racing by region:
-
 - LATAM & Europe are neck-and-neck  
 - USCA surprises with a boost in Oct  
 - Africa & Pacific Asia stay flat  
